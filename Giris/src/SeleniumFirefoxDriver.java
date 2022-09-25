@@ -2,7 +2,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class SeleniumFirefoxDriver {
-
+//denemeBranchine 2.yorumu ekliyoruum
 	public static void main(String[] args) {
 
         //gecko driver --> Mozilla firefox browser 
